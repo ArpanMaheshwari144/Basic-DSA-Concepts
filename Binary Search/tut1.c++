@@ -21,6 +21,9 @@ int main()
     14. Square Root of a number: https://bit.ly/3J5dBCJ
     15. Find Nth Root Of M: https://bit.ly/3oWhSkW
     16. Koko Eating Bananas: https://bit.ly/3CmCKVI
+    17. Minimum days to make M bouquets: https://bit.ly/43ScDRY
+    18. Find the Smallest Divisor Given a Threshold: https://bit.ly/3Cl6KB6
+    19. Capacity To Ship Packages Within D Days: https://bit.ly/43QDpdG
     */
 
     return 0;
