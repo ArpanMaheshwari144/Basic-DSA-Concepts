@@ -24,6 +24,7 @@ int main()
     17. Minimum days to make M bouquets: https://bit.ly/43ScDRY
     18. Find the Smallest Divisor Given a Threshold: https://bit.ly/3Cl6KB6
     19. Capacity To Ship Packages Within D Days: https://bit.ly/43QDpdG
+    20. Kth Missing Positive Number: https://bit.ly/3p30UBg
     */
 
     return 0;
