@@ -25,6 +25,7 @@ int main()
     18. Find the Smallest Divisor Given a Threshold: https://bit.ly/3Cl6KB6
     19. Capacity To Ship Packages Within D Days: https://bit.ly/43QDpdG
     20. Kth Missing Positive Number: https://bit.ly/3p30UBg
+    21. Aggressive Cows: https://bit.ly/3J9ab1B
     */
 
     return 0;
