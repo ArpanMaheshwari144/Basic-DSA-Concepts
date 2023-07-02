@@ -26,6 +26,7 @@ int main()
     19. Capacity To Ship Packages Within D Days: https://bit.ly/43QDpdG
     20. Kth Missing Positive Number: https://bit.ly/3p30UBg
     21. Aggressive Cows: https://bit.ly/3J9ab1B
+    22. Allocate Books: https://bit.ly/3MZQOct
     */
 
     return 0;
