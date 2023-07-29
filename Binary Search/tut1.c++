@@ -27,6 +27,9 @@ int main()
     20. Kth Missing Positive Number: https://bit.ly/3p30UBg
     21. Aggressive Cows: https://bit.ly/3J9ab1B
     22. Allocate Books: https://bit.ly/3MZQOct
+    23. Painter's partition: https://bit.ly/3XM8oFS
+    24. Split Array: Largest Sum: https://bit.ly/3Ck7UwL
+    25. Minimise Maximum Distance between Gas Stations: https://bit.ly/43SkwqA
     */
 
     return 0;
