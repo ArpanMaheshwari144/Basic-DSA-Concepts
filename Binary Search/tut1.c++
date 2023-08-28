@@ -30,6 +30,11 @@ int main()
     23. Painter's partition: https://bit.ly/3XM8oFS
     24. Split Array: Largest Sum: https://bit.ly/3Ck7UwL
     25. Minimise Maximum Distance between Gas Stations: https://bit.ly/43SkwqA
+    26. Median of two Sorted Arrays of Different Sizes: https://bit.ly/43QDw96
+    27. K-th element of two sorted arrays: https://bit.ly/3MD3mHK
+    28. Row with maximum number of 1s: https://bit.ly/3P0n95t
+    29. Search in a 2D Matrix - I: https://bit.ly/3qyFufR
+    30. Search in a 2D Matrix - II: https://bit.ly/47GY9ag
     */
 
     return 0;
