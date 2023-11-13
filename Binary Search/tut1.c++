@@ -35,6 +35,8 @@ int main()
     28. Row with maximum number of 1s: https://bit.ly/3P0n95t
     29. Search in a 2D Matrix - I: https://bit.ly/3qyFufR
     30. Search in a 2D Matrix - II: https://bit.ly/47GY9ag
+    31. Find Peak Element-II: https://bit.ly/3Ckb4Rb
+    32. Median in a row-wise sorted Matrix: http://bit.ly/3PKJAeR
     */
 
     return 0;
